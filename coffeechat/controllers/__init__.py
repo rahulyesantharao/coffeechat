@@ -1,0 +1,1 @@
+from coffeechat.controllers.default import init_app_routes
